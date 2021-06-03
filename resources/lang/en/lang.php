@@ -1,0 +1,23 @@
+<?php
+return [
+    'Products' => 'Products',
+    'Product' => 'Product',
+    'Brands' => 'Brands',
+    'Brand' => 'Brand',
+    'Name' => 'Name',
+    'View' => 'View',
+    'Add' => 'Add',
+    'Edit' => 'Edit',
+    'Delete' => 'Delete',
+    'Confirm Delete' => 'Are you sure you want to delete?',
+    'Deleted' => 'Deleted Successfully',
+    'Updated' => 'Updated Successfully',
+    'Added' => 'Added Successfully',
+    'Cancel' => 'Cancel',
+    'Confirmation' => 'Confirmation',
+    'Model Number' => 'Model Number',
+    'Submit' => 'Submit',
+    'Website' => 'Website',
+    'Actions' => 'Actions',
+    'Select a brand' => 'Select a brand',
+];
